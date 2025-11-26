@@ -1,0 +1,9 @@
+# Ignore temporary files
+*.log
+*.tmp
+
+# VS folder
+.vs/
+
+# OS folder
+.osp/
